@@ -1,0 +1,1 @@
+This is my first starter project, a simple to-do list, built with Ruby and deployed with Rails.
